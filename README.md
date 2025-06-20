@@ -1,2 +1,2 @@
 # Vremnants
-A fanmade Game about PH BVtuber
+A fanmade Game about PH Vtuber
